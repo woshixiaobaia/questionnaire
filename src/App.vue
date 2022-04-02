@@ -9,4 +9,7 @@ import Home from '@/views/Home.vue'
 </template>
 
 <style>
+#app{
+  background-color:  #fff;
+}
 </style>
